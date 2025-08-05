@@ -46,7 +46,7 @@
 
 <h3>1. Clonar el repositorio</h3>
 
-```bash
+
 git clone https://github.com/tuusuario/tu-repositorio.git
 cd tu-repositorio
 
