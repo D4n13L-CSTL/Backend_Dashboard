@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  flask:
+    build: .
+    container_name: Backend_Flask_v2
+    ports:
+      - "5041:5041"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    restart: always
+
+  
