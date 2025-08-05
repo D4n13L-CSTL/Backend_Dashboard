@@ -75,6 +75,6 @@ Esto permite una organización clara y escalabilidad sencilla.
 
 <hr/> <h2>📂 Ejemplo de endpoint</h2>
 
-<hr/> <h2>🛠️ Tecnologías utilizadas</h2> <ul> <li>🐍 Python 3.10+</li> <li>🔥 Flask</li> <li>🧰 FlaskKit</li> <li>🔐 python-dotenv</li> <li>🛢️ SQLAlchemy u otro ORM (dependiendo del módulo)</li> </ul> <hr/> <h2>🤝 Contribuciones</h2> <p>Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, puedes:</p> <ul> <li>📥 Crear un <code>Pull Request</code></li> <li>🐞 Reportar un <code>Issue</code></li> </ul> <hr/> <h2>📄 Licencia</h2> <p>Este proyecto está licenciado bajo la <b>MIT License</b>.</p> <hr/> <h2>
+<hr/> <h2>🛠️ Tecnologías utilizadas</h2> <ul> <li>🐍 Python 3.10+</li> <li>🔥 Flask</li> <li>🧰 FlaskKit</li> <li>🔐 python-dotenv</li> </ul> <hr/> <h2>🤝 Contribuciones</h2> <p>Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, puedes:</p> <ul> <li>📥 Crear un <code>Pull Request</code></li> <li>🐞 Reportar un <code>Issue</code></li> </ul> <hr/> <h2>📄 Licencia</h2> <p>Este proyecto está licenciado bajo la <b>MIT License</b>.</p> <hr/> <h2>
 
 
